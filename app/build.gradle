@@ -23,7 +23,7 @@ android {
             abiFilters "armeabi-v7a", "x86"
         }
         python {
-            buildPython "C:/Users/Thoma/AppData/Local/Programs/Python/Python37-32/python-3.7.4.exe"
+            buildPython "C:/Users/Thoma/AppData/Local/Programs/Python/Python37-32/python.exe"
             pip {
                 install "opencv-python"
             }
